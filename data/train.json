@@ -1,0 +1,18 @@
+{
+    "train": [
+      {
+        "root": "D:\\yangu\\dataset\\base_GD_data\\Images",
+        "anno": "data\\od_data.json",
+        "label_map": null,
+        "dataset_mode": "odvg"
+      }
+    ],
+    "val": [
+      {
+        "root": "D:\\yangu\\dataset\\base_GD_data\\Images",
+        "anno": "data\\od_data.json",
+        "label_map": null,
+        "dataset_mode": "odvg"
+      }
+    ]
+  }
