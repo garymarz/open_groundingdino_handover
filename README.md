@@ -1,4 +1,5 @@
 # Setup
+## For finetune GroundingDino
 1. Clone Open-GroundingDino
 ```
 git clone https://github.com/longzw1997/Open-GroundingDino.git && cd Open-GroundingDino/
